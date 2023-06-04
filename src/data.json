@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Lentes de sol",
+        "description": "Lentes de sol Versace Anti reflex",
+        "price": 10580,
+        "img": "src/assets/img/producto1.jpg",
+        "marca": "versace"
+    },
+
+    {
+        "id": 2,
+        "name": "Lentes de sol",
+        "description":"Lentes de sol Prada polarizados",
+        "price": 15500,
+        "img": "src/assets/img/producto2.jpg",
+        "marca": "prada"
+    },
+
+    {
+        "id": 3,
+        "name": "Lentes de sol",
+        "description": "Lentes de sol Ray-ban polarizados",
+        "price": 40200,
+        "img": "src/assets/img/producto3.jpg",
+        "marca": "ray-ban"
+    },
+
+    {
+        "id": 4,
+        "name": "Lentes de sol",
+        "description": " Lentes de sol Guccipolarizados",
+        "price": 24800,
+        "img": "src/assets/img/producto4.jpg",
+        "marca":"gucci"
+    },
+    
+
+    {
+        "id": 5,
+        "name": "Lentes de sol",
+        "description": "Lentes de sol Gucci",
+        "price": 29555,
+        "img": "src/assets/img/producto5.jpg",
+        "marca": "gucci"
+    },
+
+    {
+        "id": 6,
+        "name": "Lentes de sol",
+        "description": "Lentes de sol Prada espejados",
+        "price": 34822,
+        "img": "src/assets/img/producto6.jpg",
+        "marca":"prada"
+    },
+
+    {
+        "id": 7,
+        "name": "Lentes de sol",
+        "description": "Lentes de sol Versace espejados",
+        "price": 45822,
+        "img": "src/assets/img/producto7.jpg",
+        "marca":"versace"
+    },
+
+    {
+        "id": 8,
+        "name": "Lentes de sol",
+        "description": "Lentes de sol Tous espejados",
+        "price": 45822,
+        "img": "src/assets/img/producto8.jpg",
+        "marca":"tous"
+    }
+
+]
