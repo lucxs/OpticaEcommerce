@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import {HashRouter as Router, Route, Routes } from "react-router-dom";
 import React from "react";
 import NavBar from "./components/NavBar";
 import ItemListContainer from "./components/ItemListContainer";
@@ -9,9 +9,9 @@ import ShoppingCartContextProvider from "./context/ShoppingCartContext";
 
 const App = () => {
   return (
+    <Router>
     <ShoppingCartContextProvider>
       <div>
-      <BrowserRouter>
         <NavBar />
         <Routes>
           <Route exact path="/" element={<Welcome />} />
@@ -29,9 +29,9 @@ const App = () => {
 
           <Route exact path="/cart" element={<Cart />} />
         </Routes>
-      </BrowserRouter>
       </div>
     </ShoppingCartContextProvider>
+    </Router>
   );
 };
 
