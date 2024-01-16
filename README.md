@@ -16,6 +16,6 @@
 
 >#### Linkedin : https://www.linkedin.com/in/lucas-lioi-6abb2a15b/  
 
----"homepage": "https://mirageoptics.online/",
+---"homepage": "https://optica-ecommerce.vercel.app/#/",
 
 ![Guia del sitio](./src/assets/img/mirage.gif)
